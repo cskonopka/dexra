@@ -22,19 +22,21 @@ parser.add_argument('--tokenWant', help='the token contract address that we want
 parser.add_argument('--amt', help='emount of ether for initial trade, expressed in ether', dest='amtArg', required=True)
 args = parser.parse_args()
 
-with open('erc20_abi.json') as f:
+working_directory = os.getcwd()
+
+with open(str(working_directory)+'/docs/abi/erc20_abi.json') as f:
   inputABI = json.load(f)
 exchangeABI = inputABI
 
-with open('abi_dex_quickswap.json') as f:
+with open(str(working_directory)+'/docs/abi/abi_dex_quickswap.json') as f:
   inputDexABI = json.load(f)
 routerABI = inputDexABI
 
-with open('polygon_contracts.json') as f:
+with open(str(working_directory)+'/docs/contracts/contracts_polygon.json') as f:
   inputContracts = json.load(f)
 contracts = inputContracts
 
-with open('polygon_routers.json') as f:
+with open(str(working_directory)+'/docs/routers/routers_polygon.json') as f:
   inputRouters = json.load(f)
 routers = inputRouters
 
