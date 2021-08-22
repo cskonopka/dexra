@@ -56,3 +56,9 @@ Swap         matic 1:1    dai 1:1    inputAmt    outputAmt
 ---------  -----------  ---------  ----------  -----------
 quickswap            1    1.58933          10      15.8917
 sushiswap            1    1.58299          10      15.5675
+
+
+# Future
+- Clean up Ethereum example
+- Made more modular, easier to check multiple blockchains
+- Research other blockchain integration
