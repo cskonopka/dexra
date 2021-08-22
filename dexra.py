@@ -46,7 +46,6 @@ routers = {"quickswap": '0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff',
 # TRANSACTION DEADLINE
 dline = (int(time.time()) + 10000)  
 # TRANSACTION NODE
-# ethNodeURL = f'https://polygon.infura.io/v3/14f8d25612be43e6a6376a9b2d1eacc0'
 ethNodeURL = INFURA_ADDRESS
 # TRANSACTION RPC
 web3 = Web3(Web3.HTTPProvider('https://rpc-mainnet.matic.network'))
