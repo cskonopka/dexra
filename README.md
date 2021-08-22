@@ -1,5 +1,5 @@
 # dexra
-Web3 CLI tool for tracking the exchange rate of 2 crytocurrencies on Polygon via Quickswap and SushiSwap
+Web3 CLI tool for tracking the exchange rate of 2 crytocurrencies on Polygon
 
 # Setup
 - Download the repository
