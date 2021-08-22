@@ -89,3 +89,5 @@ sushiswap            1    1.58299          10      15.5675
 - Clean up Ethereum example
 - Made more modular, easier to check multiple blockchains
 - Research other blockchain integration
+
+# Donate 
