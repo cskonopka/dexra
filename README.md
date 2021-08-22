@@ -44,10 +44,13 @@ Web3 CLI tool for tracking the exchange rate of 2 crytocurrencies on Polygon via
 
 - Start it up!
 
-  Example: 
-  ```python3 dexra.py --fromToken matic --tokenWant dai --amt 10```
+# Example
 
-# Output Example
+## Command
+```python3 dexra.py --fromToken matic --tokenWant dai --amt 10```
+
+## Output
+```
 ____________________
                dexra
              POLYGON
@@ -56,7 +59,7 @@ Swap         matic 1:1    dai 1:1    inputAmt    outputAmt
 ---------  -----------  ---------  ----------  -----------
 quickswap            1    1.58933          10      15.8917
 sushiswap            1    1.58299          10      15.5675
-
+```
 
 # Future
 - Clean up Ethereum example
