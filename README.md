@@ -90,5 +90,5 @@ sushiswap            1    1.58299          10      15.5675
 - Research other blockchain integration
 
 # Donate 
-BTC: bc1qwhyylc88a4k2ellxk9ptewcgjs4c74wz5fk8ut
-ETH/MATIC: 0x33cBeE399234C30a84D1f0B26a593d380ABDeDbe
+- BTC: bc1qwhyylc88a4k2ellxk9ptewcgjs4c74wz5fk8ut
+- ETH/MATIC: 0x33cBeE399234C30a84D1f0B26a593d380ABDeDbe
