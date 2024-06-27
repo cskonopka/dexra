@@ -1,5 +1,8 @@
-# dexra
-Web3 CLI tool for tracking the exchange rate of 2 crytocurrencies on Polygon
+<h3 align="center">
+  <img height="40%" width="40%" src="https://github.com/cskonopka/dexra/blob/master/img/dexra-logo.png?raw=true"/>
+</h3>
+
+<p align="center"><em>Web3 CLI tool for tracking the exchange rate of 2 crytocurrencies on Polygon</em></p> 
 
 # Setup
 - Download the repository
